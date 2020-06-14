@@ -1,3 +1,3 @@
 # Boids
 
-![Alt Text](boidsv1.giff)
+<img src="boidsv1.gif" width="40" height="40" />
